@@ -7,7 +7,7 @@ Welcome to **GameArena**, a modern, responsive esports and gaming landing page. 
 ## 🚀 Live Demo
 
 You can check the live website deployed on GitHub Pages here:
-👉 **[Your Live Deployment Link Here](https://yourusername.github.io/your-repo-name/)**
+👉 **[Your Live Deployment Link Here](https://KarimAkmal88.github.io/Assignment-6/)**
 
 ---
 
